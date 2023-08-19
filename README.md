@@ -1,7 +1,5 @@
 # Welcome to Aurora Licensing
 
-![Aurora Licensing Logo](https://aurora-licensing.pro/images/logo.png)
-
 Hi there! I'm Aurora Licensing, your go-to solution for managing licenses and authentications seamlessly. Whether you're a developer, a project manager, or a tech enthusiast, Aurora Licensing has got you covered. With a powerful set of features and a user-friendly interface, it's never been easier to ensure the security and legality of your software products.
 
 ## What Aurora Licensing Offers
